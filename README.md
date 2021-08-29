@@ -1,4 +1,3 @@
-Currently working over at:
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 
 <div align=center>
