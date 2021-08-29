@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+<div align=center>
+
+  <a href="http://shuler.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20out-My%20Website!-brightgreen" alt="shield.png">
+  </a>
+
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=Saberr43&color=red" alt="shield.png">
+  </a>
+
+  <a href="https://www.linkedin.com/in/wyatt-shuler-992730105/" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20out-My%20LinkedIn!-blue" alt="shield.png">
+  </a>
+
+</div>
+
 <!--
 **Saberr43/Saberr43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
