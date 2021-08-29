@@ -7,7 +7,7 @@
 <div align=center>
 
   <a href="http://shuler.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Check%20out-My%20Website!-brightgreen" alt="shield.png">
+     <img src="https://img.shields.io/badge/Check%20out-my%20website-brightgreen" alt="shield.png">
   </a>
 
   <a>
@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/wyatt-shuler-992730105/" target="_blank">
-    <img src="https://img.shields.io/badge/Check%20out-My%20LinkedIn!-blue" alt="shield.png">
+    <img src="https://img.shields.io/badge/Check%20out-my%20LinkedIn-blue" alt="shield.png">
   </a>
 
 </div>
