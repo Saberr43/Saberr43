@@ -1,9 +1,13 @@
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 
 <div align=center>
+  <img src="https://img.shields.io/badge/Check%20out-My%20Website!-brightgreen" alt="shield.png">
+</div>
+
+<div align=center>
 
   <a href="http://shuler.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Check%20out-My%20Website!-brightgreen" alt="shield.png">
+    <img src="https://media.giphy.com/media/26u4b0w77qtmBBlgA/giphy.gif?cid=ecf05e47fpkovqoqxlghsrdi1gfz321729pk6r98cks6anfj&rid=giphy.gif&ct=g" alt="shield.png">
   </a>
 
   <a>
